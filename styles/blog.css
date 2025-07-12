@@ -3,3 +3,19 @@ div{
     padding: 5px;
     margin-bottom: 5px;
 }
+h3{
+    color: black;
+    text-align: justify;
+}
+.Lorem{
+    color: blue;
+    padding: 2px;
+    margin:initial;
+}
+#important{
+    background-color: chocolate;
+    text-align: center;
+}
+.pic{
+    background-color: white;
+}
